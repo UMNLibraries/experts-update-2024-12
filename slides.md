@@ -75,7 +75,7 @@ Fun fact: Experts@Minnesota orginally used yet another Elsevier product, SciVal 
 ---
 ## Manifold for the Medical School
 
-The Libraries is ending support for this custom reporting application at the end of FY0405.
+The Libraries is ending support for this custom reporting application at the end of FY 24-25.
 ---
 ## Automate everything!
 
