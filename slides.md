@@ -1,7 +1,7 @@
 ## Experts@Minnesota Project Update
 ### David Naughton
-#### Application Development, UMN Libraries
-Libraries/Minitex IT meeting, December 2024
+#### Application Development
+#### Libraries/Minitex IT meeting, December 2024
 ---
 ## Actually, immutable core language data structures...
 
