@@ -10,14 +10,19 @@
 > harvested from Scopus to create public profiles for University of Minnesota
 > faculty and researchers.
 
-— [https://libguides.umn.edu/experts-at-mn](https://libguides.umn.edu/experts-at-mn)
+-- [https://libguides.umn.edu/experts-at-mn](https://libguides.umn.edu/experts-at-mn)
 ---
 ## University-wide project
-### Example uses
 * Provost's office uses it to collect information on all centers/institutes
   * Centers/institutes must be in Experts to receive funding
 * Colleges, departments,and other organizations use it for reporting and faculty profiles
   * Especially useful for centers/institutes that are not represented in PeopleSoft
+* Researchers use it to advertize their research to the public
+---
+## How does it work?
+* [experts.umn.edu](https://experts.umn.edu) runs [Pure](https://www.elsevier.com/products/pure) (PUblished REsearch) by Elsevier
+* Pure matches research output metadata to UMN researcher demographic, grant, & project data
+* Most research output metadata comes from [Scopus](https://www.elsevier.com/products/scopus)
 ---
 ## Example: Pure API JSON
 
