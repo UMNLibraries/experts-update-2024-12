@@ -3,11 +3,21 @@
 #### Application Development
 #### Libraries/Minitex IT meeting, December 2024
 ---
-## Actually, immutable core language data structures...
+## What is Experts@Minnesota?
 
-...but that would make for too wordy a title.
+> [Experts@Minnesota](https://experts.umn.edu) is the research information management tool for the 
+> University of Minnesota. It uses University records and publication data
+> harvested from Scopus to create public profiles for University of Minnesota
+> faculty and researchers.
+
+— [https://libguides.umn.edu/experts-at-mn](https://libguides.umn.edu/experts-at-mn)
 ---
-## Why? How?
+## University-wide project
+### Example uses
+* Provost's office uses it to collect information on all centers/institutes
+  * Centers/institutes must be in Experts to receive funding
+* Colleges, departments,and other organizations use it for reporting and faculty profiles
+  * Especially useful for centers/institutes that are not represented in PeopleSoft
 ---
 ## Example: Pure API JSON
 
