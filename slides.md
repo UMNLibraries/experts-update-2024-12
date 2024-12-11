@@ -35,6 +35,30 @@ Fun fact: Experts@Minnesota orginally used yet another Elsevier product, SciVal 
 * Provide UMN researcher demographics, grant, and project data to Pure
 * Download Pure data, using the Pure API, into a local database for custom reporting
 ---
+## Updates
+---
+## Collections Analysis Report
+
+* Tells us what journals UMN researchers use
+  * i.e., what journals are publishing articles authored by UMN researchers, and the articles cited by UMN researchers
+* Helps us decide which journals to add to or remove from our collections
+* Combines data from Pure, Scopus, and UMN systems
+---
+## Collections Analysis Report: Problems
+
+* No caching. Re-downloads all data for every run
+* Takes at least three days to run
+* Can be run only on a librarian’s laptop
+* So painful, we rarely run it
+---
+## Collections Analysis Report: Solutions
+
+* Continuously update the data, in a remote database
+* Publish the report on the web, using Tableau
+* Automate everything
+---
+## 
+---
 ## Example: Pure API JSON
 
 [Pure](https://www.elsevier.com/products/pure) is a vendor
