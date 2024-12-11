@@ -13,6 +13,7 @@
 -- [https://libguides.umn.edu/experts-at-mn](https://libguides.umn.edu/experts-at-mn)
 ---
 ## University-wide project
+
 * Provost's office uses it to collect information on all centers/institutes
   * Centers/institutes must be in Experts to receive funding
 * Colleges, departments,and other organizations use it for reporting and faculty profiles
@@ -20,9 +21,19 @@
 * Researchers use it to advertize their research to the public
 ---
 ## How does it work?
+
 * [experts.umn.edu](https://experts.umn.edu) runs [Pure](https://www.elsevier.com/products/pure) (PUblished REsearch) by Elsevier
 * Pure matches research output metadata to UMN researcher demographic, grant, & project data
 * Most research output metadata comes from [Scopus](https://www.elsevier.com/products/scopus)
+---
+### Etymology
+
+Fun fact: Experts@Minnesota orginally used yet another Elsevier product, SciVal Experts
+---
+## AppDev: data engineering
+
+* Provide UMN researcher demographics, grant, and project data to Pure
+* Download Pure data, using the Pure API, into a local database for custom reporting
 ---
 ## Example: Pure API JSON
 
